@@ -1,0 +1,7 @@
+[package]
+name = "depio_test"
+version = "0.1.0"
+authors = ["Minhong Yun <mhyun@rice.edu>"]
+
+[dependencies]
+depio = { git = "https://github.com/susienme/depio" }
